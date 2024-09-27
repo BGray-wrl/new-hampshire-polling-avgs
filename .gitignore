@@ -64,6 +64,9 @@ __pycache__/
 # Output files from R CMD check
 /*.Rcheck/
 
+# Ignore RStudio project files
+*.Rproj
+
 # RStudio files
 .Rproj.user/
 
@@ -90,3 +93,7 @@ docs/
 
 # translation temp files
 po/*~
+
+
+# RStudio Connect folder
+rsconnect/
