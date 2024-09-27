@@ -1,0 +1,12 @@
+name: new_hampshire_polling
+title: new_hampshire_polling
+username: benjamingrayzel
+account: benjamingrayzel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12844979
+bundleId: 9151080
+url: https://benjamingrayzel.shinyapps.io/new_hampshire_polling/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
